@@ -1,0 +1,1220 @@
+fileFormatVersion: 2
+guid: 9e191d3ef9f7ff2428160d2f4df7cbe0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7717450174661515925
+    second: New Project_0
+  - first:
+      213: -360967855649407758
+    second: New Project_1
+  - first:
+      213: 5330907176485755315
+    second: New Project_2
+  - first:
+      213: 1685672896835508257
+    second: New Project_3
+  - first:
+      213: -7862715138806570537
+    second: New Project_4
+  - first:
+      213: -5885212068308959103
+    second: New Project_5
+  - first:
+      213: 8850427228939260222
+    second: New Project_6
+  - first:
+      213: 899260084969851661
+    second: New Project_7
+  - first:
+      213: -4605900478809934598
+    second: New Project_8
+  - first:
+      213: 179206452913301332
+    second: New Project_9
+  - first:
+      213: -6104293892941419193
+    second: New Project_10
+  - first:
+      213: 3552043490944344854
+    second: New Project_11
+  - first:
+      213: -7965695032236873681
+    second: New Project_12
+  - first:
+      213: 1474191552816186473
+    second: New Project_13
+  - first:
+      213: -6032835166426197169
+    second: New Project_14
+  - first:
+      213: 7860325929324162475
+    second: New Project_15
+  - first:
+      213: -6149714386107655403
+    second: New Project_16
+  - first:
+      213: -5322145095352746994
+    second: New Project_17
+  - first:
+      213: 7130718535056616494
+    second: New Project_18
+  - first:
+      213: -18421026134024292
+    second: New Project_19
+  - first:
+      213: -7928647070949481405
+    second: New Project_20
+  - first:
+      213: 3427203052258015010
+    second: New Project_21
+  - first:
+      213: -5883473372304252287
+    second: New Project_22
+  - first:
+      213: -5363009711273601612
+    second: New Project_23
+  - first:
+      213: -3682643924619658644
+    second: New Project_24
+  - first:
+      213: -2805661166567402342
+    second: New Project_25
+  - first:
+      213: 5986892245417331466
+    second: New Project_26
+  - first:
+      213: 8571025443215787540
+    second: New Project_27
+  - first:
+      213: 7006981704293630305
+    second: New Project_28
+  - first:
+      213: -4912998352097091719
+    second: New Project_29
+  - first:
+      213: -5483292144835135237
+    second: New Project_30
+  - first:
+      213: 8327250444774884943
+    second: New Project_31
+  - first:
+      213: 1414031898270750192
+    second: New Project_32
+  - first:
+      213: 1985091804175958415
+    second: New Project_33
+  - first:
+      213: 3955331730401036068
+    second: New Project_34
+  - first:
+      213: -4259895736375060605
+    second: New Project_35
+  - first:
+      213: 8271264628235775376
+    second: New Project_36
+  - first:
+      213: 2503450778192471769
+    second: New Project_37
+  - first:
+      213: 7916779059744271193
+    second: New Project_38
+  - first:
+      213: 2975639105325340580
+    second: New Project_39
+  - first:
+      213: -1411819641943354217
+    second: New Project_40
+  - first:
+      213: -1354527014237745393
+    second: New Project_41
+  - first:
+      213: -4887473855374171231
+    second: New Project_42
+  - first:
+      213: -1371142239261319929
+    second: New Project_43
+  - first:
+      213: -2254807183498146770
+    second: New Project_44
+  - first:
+      213: 7050079401184352388
+    second: New Project_45
+  - first:
+      213: -4121038447339860143
+    second: New Project_46
+  - first:
+      213: 5699104116321424938
+    second: New Project_47
+  - first:
+      213: -2137000151201888997
+    second: New Project_48
+  - first:
+      213: 7215628196799989409
+    second: New Project_49
+  - first:
+      213: -2905759894053532626
+    second: New Project_50
+  - first:
+      213: 2056377466742505836
+    second: New Project_51
+  - first:
+      213: 1065581057959761848
+    second: New Project_52
+  - first:
+      213: -3041235154898820519
+    second: New Project_53
+  - first:
+      213: -390085656038788054
+    second: New Project_54
+  - first:
+      213: 8659325767276281045
+    second: New Project_55
+  - first:
+      213: -8532001458027752532
+    second: New Project_56
+  - first:
+      213: 946423512952065019
+    second: New Project_57
+  - first:
+      213: -4189753320031249432
+    second: New Project_58
+  - first:
+      213: -3683769169435771051
+    second: New Project_59
+  - first:
+      213: 5030167355851175973
+    second: New Project_60
+  - first:
+      213: 4170855183237467011
+    second: New Project_61
+  - first:
+      213: 657096869368322420
+    second: New Project_62
+  - first:
+      213: 2837708761701872655
+    second: New Project_63
+  - first:
+      213: -4366552516643022601
+    second: New Project_64
+  - first:
+      213: -6398533865652583404
+    second: New Project_65
+  - first:
+      213: 5443261005571466603
+    second: New Project_66
+  - first:
+      213: -1488381122402005440
+    second: New Project_67
+  - first:
+      213: -8850793028522864666
+    second: New Project_68
+  - first:
+      213: 3815248936863782867
+    second: New Project_69
+  - first:
+      213: 626986583620260884
+    second: New Project_70
+  - first:
+      213: -3455139751842640467
+    second: New Project_71
+  - first:
+      213: 6008174629559001142
+    second: New Project_72
+  - first:
+      213: -2527589063970062234
+    second: New Project_73
+  - first:
+      213: 7600854336479538920
+    second: New Project_74
+  - first:
+      213: -7371556622428371402
+    second: New Project_75
+  - first:
+      213: 2903651709365863119
+    second: New Project_76
+  - first:
+      213: -5783240577033103338
+    second: New Project_77
+  - first:
+      213: -6665369906019217686
+    second: New Project_78
+  - first:
+      213: -1052655311019390963
+    second: New Project_79
+  - first:
+      213: -2403434175968575599
+    second: New Project_80
+  - first:
+      213: 4958692421352940515
+    second: New Project_81
+  - first:
+      213: -638176437082314713
+    second: New Project_82
+  - first:
+      213: 235308703390015093
+    second: New Project_83
+  - first:
+      213: -2735289726358728051
+    second: New Project_84
+  - first:
+      213: -3721825318387536103
+    second: New Project_85
+  - first:
+      213: -5652317102422131170
+    second: New Project_86
+  - first:
+      213: -6754704283916834420
+    second: New Project_87
+  - first:
+      213: 6170962445623024221
+    second: New Project_88
+  - first:
+      213: 2386065490063660804
+    second: New Project_89
+  - first:
+      213: 2093676628515287134
+    second: New Project_90
+  - first:
+      213: 9010558893634862205
+    second: New Project_91
+  - first:
+      213: -5667525272468253185
+    second: New Project_92
+  - first:
+      213: -2091536288160636701
+    second: New Project_93
+  - first:
+      213: 2489215400084218462
+    second: New Project_94
+  - first:
+      213: 6223741388112716867
+    second: New Project_95
+  - first:
+      213: 3105208340721407262
+    second: New Project_96
+  - first:
+      213: -8469333071625683449
+    second: New Project_97
+  - first:
+      213: 965846303316811801
+    second: New Project_98
+  - first:
+      213: -3588164211006705351
+    second: New Project_99
+  - first:
+      213: 9093191387847050872
+    second: New Project_100
+  - first:
+      213: -7199440557794385656
+    second: New Project_101
+  - first:
+      213: 6991244878840823024
+    second: New Project_102
+  - first:
+      213: -367546511616967070
+    second: New Project_103
+  - first:
+      213: 7985695117658459417
+    second: New Project_104
+  - first:
+      213: -1345315701371547600
+    second: New Project_105
+  - first:
+      213: 444765633900354364
+    second: New Project_106
+  - first:
+      213: -6053066689079649784
+    second: New Project_107
+  - first:
+      213: 5455237480876890490
+    second: New Project_108
+  - first:
+      213: 1145466276016869633
+    second: New Project_109
+  - first:
+      213: 3722031088026248350
+    second: New Project_110
+  - first:
+      213: 763459081137344513
+    second: New Project_111
+  - first:
+      213: -638513080657076621
+    second: New Project_112
+  - first:
+      213: 4867574678297722915
+    second: New Project_113
+  - first:
+      213: -336847666729431807
+    second: New Project_114
+  - first:
+      213: 7766869141557102029
+    second: New Project_115
+  - first:
+      213: 4382603715189858812
+    second: New Project_116
+  - first:
+      213: -8065961984939527855
+    second: New Project_117
+  - first:
+      213: -695164989231908373
+    second: New Project_118
+  - first:
+      213: -7655141974868778891
+    second: New Project_119
+  - first:
+      213: -3338785795030437618
+    second: New Project_120
+  - first:
+      213: 7804714276373308229
+    second: New Project_121
+  - first:
+      213: -3335558065515944663
+    second: New Project_122
+  - first:
+      213: 1680146729576998247
+    second: New Project_123
+  - first:
+      213: -4907799279157880377
+    second: New Project_124
+  - first:
+      213: 1228912665577921070
+    second: New Project_125
+  - first:
+      213: 5841975663294566970
+    second: New Project_126
+  - first:
+      213: 2354494079116559820
+    second: New Project_127
+  - first:
+      213: -2747833202057247790
+    second: New Project_128
+  - first:
+      213: -4732680665493378177
+    second: New Project_129
+  - first:
+      213: -2556202986795477292
+    second: New Project_130
+  - first:
+      213: 5930565656693509866
+    second: New Project_131
+  - first:
+      213: -4067904069578362125
+    second: New Project_132
+  - first:
+      213: -2618650698197486123
+    second: New Project_133
+  - first:
+      213: 8929417080283480565
+    second: New Project_134
+  - first:
+      213: -2932662539731442226
+    second: New Project_135
+  - first:
+      213: 7818581150334482403
+    second: New Project_136
+  - first:
+      213: -7493052226230374262
+    second: New Project_137
+  - first:
+      213: 316692420897886293
+    second: New Project_138
+  - first:
+      213: -2192106356526123309
+    second: New Project_139
+  - first:
+      213: 2812278912501665928
+    second: New Project_140
+  - first:
+      213: 8872239471259776058
+    second: New Project_141
+  - first:
+      213: 7986559163506844642
+    second: New Project_142
+  - first:
+      213: -5582899286265088107
+    second: New Project_143
+  - first:
+      213: -3210185675594722114
+    second: New Project_144
+  - first:
+      213: 455251326206392601
+    second: New Project_145
+  - first:
+      213: -7860206686878430331
+    second: New Project_146
+  - first:
+      213: 7315864121004478530
+    second: New Project_147
+  - first:
+      213: 3331278424499273887
+    second: New Project_148
+  - first:
+      213: -8275389982471378012
+    second: New Project_149
+  - first:
+      213: -5205884512350960769
+    second: New Project_150
+  - first:
+      213: -4602556964554363530
+    second: New Project_151
+  - first:
+      213: -6154775731272485521
+    second: New Project_152
+  - first:
+      213: -6539199813857955690
+    second: New Project_153
+  - first:
+      213: -3112444841542070900
+    second: New Project_154
+  - first:
+      213: -2372574436089440218
+    second: New Project_155
+  - first:
+      213: 3476602998478229256
+    second: New Project_156
+  - first:
+      213: -4913716285840455968
+    second: New Project_157
+  - first:
+      213: 733367189474466030
+    second: New Project_158
+  - first:
+      213: -2781357349208651756
+    second: New Project_159
+  - first:
+      213: -2419707079874267332
+    second: New Project_160
+  - first:
+      213: -7978290703038969059
+    second: New Project_161
+  - first:
+      213: -4974369200752130123
+    second: New Project_162
+  - first:
+      213: 5353000515903029477
+    second: New Project_163
+  - first:
+      213: -3255031199271877796
+    second: New Project_164
+  - first:
+      213: 7706825944562224888
+    second: New Project_165
+  - first:
+      213: 7671385559408996794
+    second: New Project_166
+  - first:
+      213: 3510984398766004259
+    second: New Project_167
+  - first:
+      213: 2119466483832440419
+    second: New Project_168
+  - first:
+      213: 5755285634450590536
+    second: New Project_169
+  - first:
+      213: -412856929480394780
+    second: New Project_170
+  - first:
+      213: -4816247107693211364
+    second: New Project_171
+  - first:
+      213: -596207981524292124
+    second: New Project_172
+  - first:
+      213: 4640009191351022222
+    second: New Project_173
+  - first:
+      213: 3278963563825898037
+    second: New Project_174
+  - first:
+      213: -249927428286308439
+    second: New Project_175
+  - first:
+      213: 8223294075129366856
+    second: New Project_176
+  - first:
+      213: -2064103411622462407
+    second: New Project_177
+  - first:
+      213: -6123347047924959239
+    second: New Project_178
+  - first:
+      213: 1963224328086856339
+    second: New Project_179
+  - first:
+      213: -8550203934443110962
+    second: New Project_180
+  - first:
+      213: -9111209127854156067
+    second: New Project_181
+  - first:
+      213: 6091104630327549362
+    second: New Project_182
+  - first:
+      213: -2834649762124820092
+    second: New Project_183
+  - first:
+      213: 7280939711886952620
+    second: New Project_184
+  - first:
+      213: -4037355425646279872
+    second: New Project_185
+  - first:
+      213: 2849320538833690116
+    second: New Project_186
+  - first:
+      213: -2548314028212250789
+    second: New Project_187
+  - first:
+      213: 8567011186670480245
+    second: New Project_188
+  - first:
+      213: -2061505244166063782
+    second: New Project_189
+  - first:
+      213: -1535261743004770890
+    second: New Project_190
+  - first:
+      213: 8565738643970173875
+    second: New Project_191
+  - first:
+      213: -2091027541155323522
+    second: New Project_192
+  - first:
+      213: 7192498982990346132
+    second: New Project_193
+  - first:
+      213: 6633160448567579413
+    second: New Project_194
+  - first:
+      213: -2669528693950065540
+    second: New Project_195
+  - first:
+      213: 4993742581443583356
+    second: New Project_196
+  - first:
+      213: 8957769698965543514
+    second: New Project_197
+  - first:
+      213: -2475826305349741635
+    second: New Project_198
+  - first:
+      213: 4298793693248433345
+    second: New Project_199
+  - first:
+      213: -3522826443265962466
+    second: New Project_200
+  - first:
+      213: -5990704010365383600
+    second: New Project_201
+  - first:
+      213: -7346805356970615808
+    second: New Project_202
+  - first:
+      213: -6412581693904924983
+    second: New Project_203
+  - first:
+      213: -5834103462778333085
+    second: New Project_204
+  - first:
+      213: -5046490021061733418
+    second: New Project_205
+  - first:
+      213: 9069858173142644677
+    second: New Project_206
+  - first:
+      213: -3261752802331937835
+    second: New Project_207
+  - first:
+      213: 4174857258323714140
+    second: New Project_208
+  - first:
+      213: 2652646024837745324
+    second: New Project_209
+  - first:
+      213: -9043145426271719286
+    second: New Project_210
+  - first:
+      213: -7984600431028848387
+    second: New Project_211
+  - first:
+      213: -3953259477961457190
+    second: New Project_212
+  - first:
+      213: -4247045766856255457
+    second: New Project_213
+  - first:
+      213: 3905515287287303763
+    second: New Project_214
+  - first:
+      213: -7481112729811020235
+    second: New Project_215
+  - first:
+      213: -1549904355165723177
+    second: New Project_216
+  - first:
+      213: -6022858965614056237
+    second: New Project_217
+  - first:
+      213: -5085114488219932868
+    second: New Project_218
+  - first:
+      213: -2746260915216691549
+    second: New Project_219
+  - first:
+      213: 1291369631871192969
+    second: New Project_220
+  - first:
+      213: -5984497344934939448
+    second: New Project_221
+  - first:
+      213: 5597701736830626478
+    second: New Project_222
+  - first:
+      213: 2648979298070754116
+    second: New Project_223
+  - first:
+      213: -6066009370628436147
+    second: New Project_224
+  - first:
+      213: 4744924398096824498
+    second: New Project_225
+  - first:
+      213: 4332595870832537301
+    second: New Project_226
+  - first:
+      213: 1427099653573227980
+    second: New Project_227
+  - first:
+      213: 4473374340929394326
+    second: New Project_228
+  - first:
+      213: 5734474876480491348
+    second: New Project_229
+  - first:
+      213: 374708303732933768
+    second: New Project_230
+  - first:
+      213: 4156759580532274068
+    second: New Project_231
+  - first:
+      213: 4803882936449943249
+    second: New Project_232
+  - first:
+      213: -2278003946788503854
+    second: New Project_233
+  - first:
+      213: -4907277548429261393
+    second: New Project_234
+  - first:
+      213: 2075412605445671554
+    second: New Project_235
+  - first:
+      213: 7449134849071191628
+    second: New Project_236
+  - first:
+      213: 4170797220285561958
+    second: New Project_237
+  - first:
+      213: -7062376911958253439
+    second: New Project_238
+  - first:
+      213: 2713412722121605160
+    second: New Project_239
+  - first:
+      213: 9108970388775833611
+    second: New Project_240
+  - first:
+      213: 364424866395005797
+    second: New Project_241
+  - first:
+      213: -1136450018308973658
+    second: New Project_242
+  - first:
+      213: -6716106957224653572
+    second: New Project_243
+  - first:
+      213: 1730850494158547988
+    second: New Project_244
+  - first:
+      213: -5519146714738457525
+    second: New Project_245
+  - first:
+      213: 5494878142424461410
+    second: New Project_246
+  - first:
+      213: -3591283818274556436
+    second: New Project_247
+  - first:
+      213: 3893147926924953946
+    second: New Project_248
+  - first:
+      213: -8402059191766498924
+    second: New Project_249
+  - first:
+      213: -2813902536469152160
+    second: New Project_250
+  - first:
+      213: 111104327863243291
+    second: New Project_251
+  - first:
+      213: -3334466495000330652
+    second: New Project_252
+  - first:
+      213: -230650644991154924
+    second: New Project_253
+  - first:
+      213: 454478378188583946
+    second: New Project_254
+  - first:
+      213: -1570724745555264508
+    second: New Project_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Project_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3125.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65268774fb16e490800000000000000
+      internalID: -7717450174661515925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_1
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3125.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbea4d5a59dfaf0800000000000000
+      internalID: -360967855649407758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_2
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 3125.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9930925df2bf940800000000000000
+      internalID: 5330907176485755315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_3
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 3125.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128526f8196b46710800000000000000
+      internalID: 1685672896835508257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2084.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1295d5d3602e290800000000000000
+      internalID: -7862715138806570537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2084.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804a981ec6835ea0800000000000000
+      internalID: -5885212068308959103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_6
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2084.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e319e535ca803da70800000000000000
+      internalID: 8850427228939260222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_7
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2084.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bc0556840da7c00800000000000000
+      internalID: 899260084969851661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1043.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af47bb9eaed8410c0800000000000000
+      internalID: -4605900478809934598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1043.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ea57c15bac7200800000000000000
+      internalID: 179206452913301332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_10
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1043.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74de3aadb01394ba0800000000000000
+      internalID: -6104293892941419193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_11
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1043.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613e9784cb46b4130800000000000000
+      internalID: 3552043490944344854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f286d6e729a247190800000000000000
+      internalID: -7965695032236873681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_13
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9648d7c1861657410800000000000000
+      internalID: 1474191552816186473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_14
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439ea42160174ca0800000000000000
+      internalID: -6032835166426197169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project_15
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2.25
+        width: 1041.75
+        height: 1041.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bada82479cc751d60800000000000000
+      internalID: 7860325929324162475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9e879b171089f704e85b4ffc0406330c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
